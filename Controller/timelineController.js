@@ -1,5 +1,5 @@
 
-import { catchAsyncErrors } from "../middleware/catchAsyncErrors.js";
+import { catchAsyncErrors } from "../middleware/CatchAsyncErrors.js";
 import { Timeline } from "../Models/timelineSchema.js";
 import ErrorHandler  from "../middleware/errors.js"
 
